@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Valid Usernames\bin\Debug\Valid Usernames.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Valid Usernames\bin\Debug\Valid Usernames.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Valid Usernames\bin\Debug\Valid Usernames.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Valid Usernames\obj\Debug\Valid Usernames.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Valid Usernames\obj\Debug\Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Valid Usernames\obj\Debug\Valid Usernames.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Valid Usernames\obj\Debug\Valid Usernames.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Parking\bin\Debug\SoftUni Parking.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Parking\bin\Debug\SoftUni Parking.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Parking\bin\Debug\SoftUni Parking.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Parking\obj\Debug\SoftUni Parking.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Parking\obj\Debug\SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Parking\obj\Debug\SoftUni Parking.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Parking\obj\Debug\SoftUni Parking.pdb

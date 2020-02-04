@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\Symbol in Matrix.exe.config
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\Symbol in Matrix.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\Symbol in Matrix.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\Symbol in Matrix.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\Symbol in Matrix.pdb

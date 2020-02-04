@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Arrays - Lab\Day of Week\bin\Debug\Day of Week.exe.config
+C:\Users\User\source\repos\Arrays - Lab\Day of Week\bin\Debug\Day of Week.exe
+C:\Users\User\source\repos\Arrays - Lab\Day of Week\bin\Debug\Day of Week.pdb
+C:\Users\User\source\repos\Arrays - Lab\Day of Week\obj\Debug\Day of Week.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Lab\Day of Week\obj\Debug\Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\Day of Week\obj\Debug\Day of Week.exe
+C:\Users\User\source\repos\Arrays - Lab\Day of Week\obj\Debug\Day of Week.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Day of Week\bin\Debug\Day of Week.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Day of Week\bin\Debug\Day of Week.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Day of Week\bin\Debug\Day of Week.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Day of Week\obj\Debug\Day of Week.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Day of Week\obj\Debug\Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Day of Week\obj\Debug\Day of Week.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Day of Week\obj\Debug\Day of Week.pdb

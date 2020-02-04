@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Truck Tour\bin\Debug\Truck Tour.exe.config
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Truck Tour\bin\Debug\Truck Tour.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Truck Tour\bin\Debug\Truck Tour.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Truck Tour\obj\Debug\Truck Tour.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Truck Tour\obj\Debug\Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Truck Tour\obj\Debug\Truck Tour.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Truck Tour\obj\Debug\Truck Tour.pdb

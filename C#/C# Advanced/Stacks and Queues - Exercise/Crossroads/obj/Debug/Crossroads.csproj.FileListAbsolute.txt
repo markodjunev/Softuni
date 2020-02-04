@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Crossroads\bin\Debug\Crossroads.exe.config
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Crossroads\bin\Debug\Crossroads.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Crossroads\bin\Debug\Crossroads.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Crossroads\obj\Debug\Crossroads.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Crossroads\obj\Debug\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Crossroads\obj\Debug\Crossroads.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Crossroads\obj\Debug\Crossroads.pdb

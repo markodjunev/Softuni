@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Digits, Letters and Other\bin\Debug\Digits, Letters and Other.exe.config
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Digits, Letters and Other\bin\Debug\Digits, Letters and Other.exe
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Digits, Letters and Other\bin\Debug\Digits, Letters and Other.pdb
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Digits, Letters and Other\obj\Debug\Digits, Letters and Other.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Digits, Letters and Other\obj\Debug\Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Digits, Letters and Other\obj\Debug\Digits, Letters and Other.exe
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Digits, Letters and Other\obj\Debug\Digits, Letters and Other.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Associative Arrays - Exercise\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\User\source\repos\Associative Arrays - Exercise\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\User\source\repos\Associative Arrays - Exercise\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\User\source\repos\Associative Arrays - Exercise\A Miner Task\obj\Debug\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - Exercise\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\User\source\repos\Associative Arrays - Exercise\A Miner Task\obj\Debug\A Miner Task.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Primary Diagonal\bin\Debug\Primary Diagonal.exe.config
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Primary Diagonal\bin\Debug\Primary Diagonal.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Primary Diagonal\bin\Debug\Primary Diagonal.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Primary Diagonal\obj\Debug\Primary Diagonal.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Primary Diagonal\obj\Debug\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Primary Diagonal\obj\Debug\Primary Diagonal.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Primary Diagonal\obj\Debug\Primary Diagonal.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\Fashion Boutique.exe.config
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\Fashion Boutique.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\Fashion Boutique.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\Fashion Boutique.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\Fashion Boutique.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\Fashion Boutique.pdb

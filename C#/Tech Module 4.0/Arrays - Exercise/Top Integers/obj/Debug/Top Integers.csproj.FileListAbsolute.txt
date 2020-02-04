@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Top Integers\bin\Debug\Top Integers.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Top Integers\bin\Debug\Top Integers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Top Integers\bin\Debug\Top Integers.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Top Integers\obj\Debug\Top Integers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Top Integers\obj\Debug\Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Top Integers\obj\Debug\Top Integers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Top Integers\obj\Debug\Top Integers.pdb

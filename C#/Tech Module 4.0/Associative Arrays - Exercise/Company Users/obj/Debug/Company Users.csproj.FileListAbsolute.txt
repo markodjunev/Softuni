@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Company Users\bin\Debug\Company Users.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Company Users\bin\Debug\Company Users.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Company Users\bin\Debug\Company Users.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Company Users\obj\Debug\Company Users.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Company Users\obj\Debug\Company Users.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Company Users\obj\Debug\Company Users.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Company Users\obj\Debug\Company Users.pdb

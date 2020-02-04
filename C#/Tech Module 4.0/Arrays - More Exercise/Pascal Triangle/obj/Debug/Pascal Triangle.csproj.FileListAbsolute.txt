@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - More Exercise\Pascal Triangle\obj\Debug\Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - More Exercise\Pascal Triangle\obj\Debug\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - More Exercise\Pascal Triangle\bin\Debug\Pascal Triangle.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - More Exercise\Pascal Triangle\bin\Debug\Pascal Triangle.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - More Exercise\Pascal Triangle\bin\Debug\Pascal Triangle.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - More Exercise\Pascal Triangle\obj\Debug\Pascal Triangle.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - More Exercise\Pascal Triangle\obj\Debug\Pascal Triangle.pdb

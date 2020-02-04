@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Middle Characters\bin\Debug\Middle Characters.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Middle Characters\bin\Debug\Middle Characters.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Middle Characters\bin\Debug\Middle Characters.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Middle Characters\obj\Debug\Middle Characters.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Middle Characters\obj\Debug\Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Middle Characters\obj\Debug\Middle Characters.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Middle Characters\obj\Debug\Middle Characters.pdb

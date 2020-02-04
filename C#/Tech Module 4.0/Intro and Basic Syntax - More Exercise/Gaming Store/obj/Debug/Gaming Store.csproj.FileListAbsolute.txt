@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Gaming Store\bin\Debug\Gaming Store.exe.config
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Gaming Store\bin\Debug\Gaming Store.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Gaming Store\bin\Debug\Gaming Store.pdb
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Gaming Store\obj\Debug\Gaming Store.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Gaming Store\obj\Debug\Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Gaming Store\obj\Debug\Gaming Store.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Gaming Store\obj\Debug\Gaming Store.pdb

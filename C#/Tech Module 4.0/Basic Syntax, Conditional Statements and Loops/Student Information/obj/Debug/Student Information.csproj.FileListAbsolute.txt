@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\Student Information.exe.config
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\Student Information.exe
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Student Information\bin\Debug\Student Information.pdb
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\Student Information.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\Student Information.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\Student Information.exe
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Student Information\obj\Debug\Student Information.pdb

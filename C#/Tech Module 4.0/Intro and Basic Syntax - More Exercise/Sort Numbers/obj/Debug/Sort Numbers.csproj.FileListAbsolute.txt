@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Sort Numbers\bin\Debug\Sort Numbers.exe.config
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Sort Numbers\bin\Debug\Sort Numbers.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Sort Numbers\bin\Debug\Sort Numbers.pdb
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Sort Numbers\obj\Debug\Sort Numbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Sort Numbers\obj\Debug\Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Sort Numbers\obj\Debug\Sort Numbers.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Sort Numbers\obj\Debug\Sort Numbers.pdb

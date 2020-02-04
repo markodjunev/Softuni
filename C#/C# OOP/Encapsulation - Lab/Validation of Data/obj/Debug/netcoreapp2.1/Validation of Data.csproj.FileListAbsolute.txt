@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\bin\Debug\netcoreapp2.1\Validation of Data.deps.json
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\bin\Debug\netcoreapp2.1\Validation of Data.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\bin\Debug\netcoreapp2.1\Validation of Data.runtimeconfig.dev.json
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\bin\Debug\netcoreapp2.1\Validation of Data.dll
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\bin\Debug\netcoreapp2.1\Validation of Data.pdb
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\obj\Debug\netcoreapp2.1\Validation of Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\obj\Debug\netcoreapp2.1\Validation of Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\obj\Debug\netcoreapp2.1\Validation of Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\obj\Debug\netcoreapp2.1\Validation of Data.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\obj\Debug\netcoreapp2.1\Validation of Data.dll
+C:\Users\User\source\repos\Encapsulation - Lab\Validation of Data\obj\Debug\netcoreapp2.1\Validation of Data.pdb

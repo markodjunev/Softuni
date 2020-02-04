@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Kamino Factory\bin\Debug\Kamino Factory.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Kamino Factory\bin\Debug\Kamino Factory.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Kamino Factory\bin\Debug\Kamino Factory.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Kamino Factory\obj\Debug\Kamino Factory.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Kamino Factory\obj\Debug\Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Kamino Factory\obj\Debug\Kamino Factory.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Kamino Factory\obj\Debug\Kamino Factory.pdb

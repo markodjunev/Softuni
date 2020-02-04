@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Rage Expenses\bin\Debug\Rage Expenses.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Rage Expenses\bin\Debug\Rage Expenses.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Rage Expenses\bin\Debug\Rage Expenses.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\Rage Expenses.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\Rage Expenses.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\Rage Expenses.pdb

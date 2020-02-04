@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Lists - More Exercise\bin\Debug\Lists - More Exercise.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Lists - More Exercise\bin\Debug\Lists - More Exercise.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Lists - More Exercise\bin\Debug\Lists - More Exercise.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Lists - More Exercise\obj\Debug\Messaging.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Lists - More Exercise\obj\Debug\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Lists - More Exercise\obj\Debug\Lists - More Exercise.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Lists - More Exercise\obj\Debug\Lists - More Exercise.pdb

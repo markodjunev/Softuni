@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\Periodic Table.exe.config
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\Periodic Table.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\Periodic Table.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\Periodic Table.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\Periodic Table.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\Periodic Table.pdb

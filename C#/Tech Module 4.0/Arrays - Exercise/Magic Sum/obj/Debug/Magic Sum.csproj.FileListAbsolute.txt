@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Magic Sum\bin\Debug\Magic Sum.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Magic Sum\bin\Debug\Magic Sum.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Magic Sum\bin\Debug\Magic Sum.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Magic Sum\obj\Debug\Magic Sum.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Magic Sum\obj\Debug\Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Magic Sum\obj\Debug\Magic Sum.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Magic Sum\obj\Debug\Magic Sum.pdb

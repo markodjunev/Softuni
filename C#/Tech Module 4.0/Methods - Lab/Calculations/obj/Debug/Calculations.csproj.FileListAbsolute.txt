@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Calculations\bin\Debug\Calculations.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Calculations\bin\Debug\Calculations.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Calculations\bin\Debug\Calculations.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Calculations\obj\Debug\Calculations.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Calculations\obj\Debug\Calculations.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Calculations\obj\Debug\Calculations.pdb

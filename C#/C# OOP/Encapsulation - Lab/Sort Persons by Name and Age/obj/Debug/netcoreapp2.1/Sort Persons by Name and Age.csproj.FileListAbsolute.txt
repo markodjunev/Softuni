@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\bin\Debug\netcoreapp2.1\Sort Persons by Name and Age.deps.json
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\bin\Debug\netcoreapp2.1\Sort Persons by Name and Age.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\bin\Debug\netcoreapp2.1\Sort Persons by Name and Age.runtimeconfig.dev.json
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\bin\Debug\netcoreapp2.1\Sort Persons by Name and Age.dll
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\bin\Debug\netcoreapp2.1\Sort Persons by Name and Age.pdb
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\obj\Debug\netcoreapp2.1\Sort Persons by Name and Age.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\obj\Debug\netcoreapp2.1\Sort Persons by Name and Age.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\obj\Debug\netcoreapp2.1\Sort Persons by Name and Age.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\obj\Debug\netcoreapp2.1\Sort Persons by Name and Age.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\obj\Debug\netcoreapp2.1\Sort Persons by Name and Age.dll
+C:\Users\User\source\repos\Encapsulation - Lab\Sort Persons by Name and Age\obj\Debug\netcoreapp2.1\Sort Persons by Name and Age.pdb

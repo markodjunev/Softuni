@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\AdoNetIntroduction\Print All Minion Names\bin\Debug\netcoreapp3.0\Print All Minion Names.exe
+C:\Users\User\Desktop\AdoNetIntroduction\Print All Minion Names\obj\Debug\netcoreapp3.0\Print All Minion Names.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Print All Minion Names\obj\Debug\netcoreapp3.0\Print All Minion Names.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Print All Minion Names\obj\Debug\netcoreapp3.0\Print All Minion Names.AssemblyInfo.cs

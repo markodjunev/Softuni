@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Change List\bin\Debug\Change List.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Change List\bin\Debug\Change List.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Change List\bin\Debug\Change List.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Change List\obj\Debug\Change List.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Change List\obj\Debug\Change List.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Change List\obj\Debug\Change List.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Change List\obj\Debug\Change List.pdb

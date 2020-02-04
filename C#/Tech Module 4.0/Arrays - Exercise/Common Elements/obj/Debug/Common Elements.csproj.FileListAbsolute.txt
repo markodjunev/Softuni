@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\bin\Debug\Common Elements.exe.config
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\bin\Debug\Common Elements.exe
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\bin\Debug\Common Elements.pdb
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\Common Elements.exe
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\Common Elements.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Common Elements\bin\Debug\Common Elements.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Common Elements\bin\Debug\Common Elements.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Common Elements\bin\Debug\Common Elements.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Common Elements\obj\Debug\Common Elements.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Common Elements\obj\Debug\Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Common Elements\obj\Debug\Common Elements.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Common Elements\obj\Debug\Common Elements.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Condense Array to Number\bin\Debug\Condense Array to Number.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Condense Array to Number\bin\Debug\Condense Array to Number.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Condense Array to Number\bin\Debug\Condense Array to Number.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Condense Array to Number\obj\Debug\Condense Array to Number.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Condense Array to Number\obj\Debug\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Condense Array to Number\obj\Debug\Condense Array to Number.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Condense Array to Number\obj\Debug\Condense Array to Number.pdb

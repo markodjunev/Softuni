@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\SoftUni Course Planning\bin\Debug\SoftUni Course Planning.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\SoftUni Course Planning\bin\Debug\SoftUni Course Planning.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\SoftUni Course Planning\bin\Debug\SoftUni Course Planning.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\SoftUni Course Planning\obj\Debug\SoftUni Course Planning.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\SoftUni Course Planning\obj\Debug\SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\SoftUni Course Planning\obj\Debug\SoftUni Course Planning.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\SoftUni Course Planning\obj\Debug\SoftUni Course Planning.pdb

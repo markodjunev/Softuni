@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Count Symbols\bin\Debug\Count Symbols.exe.config
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Count Symbols\bin\Debug\Count Symbols.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Count Symbols\bin\Debug\Count Symbols.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Count Symbols\obj\Debug\Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Count Symbols\obj\Debug\Count Symbols.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Count Symbols\obj\Debug\Count Symbols.pdb

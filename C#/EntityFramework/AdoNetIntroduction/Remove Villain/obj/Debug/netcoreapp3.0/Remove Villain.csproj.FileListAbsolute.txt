@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\AdoNetIntroduction\Remove Villain\bin\Debug\netcoreapp3.0\Remove Villain.exe
+C:\Users\User\Desktop\AdoNetIntroduction\Remove Villain\obj\Debug\netcoreapp3.0\Remove Villain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Remove Villain\obj\Debug\netcoreapp3.0\Remove Villain.AssemblyInfo.cs

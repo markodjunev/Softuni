@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\AdoNetIntroduction\Initial Setup\bin\Debug\netcoreapp3.0\Initial Setup.exe
+C:\Users\User\Desktop\AdoNetIntroduction\Initial Setup\obj\Debug\netcoreapp3.0\Initial Setup.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Initial Setup\obj\Debug\netcoreapp3.0\Initial Setup.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Initial Setup\obj\Debug\netcoreapp3.0\Initial Setup.AssemblyInfo.cs

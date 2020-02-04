@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vacation\bin\Debug\Vacation.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vacation\bin\Debug\Vacation.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vacation\bin\Debug\Vacation.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vacation\obj\Debug\Vacation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vacation\obj\Debug\Vacation.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vacation\obj\Debug\Vacation.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\bin\Debug\netcoreapp2.1\First and Reserve Team.deps.json
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\bin\Debug\netcoreapp2.1\First and Reserve Team.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\bin\Debug\netcoreapp2.1\First and Reserve Team.runtimeconfig.dev.json
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\bin\Debug\netcoreapp2.1\First and Reserve Team.dll
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\bin\Debug\netcoreapp2.1\First and Reserve Team.pdb
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\obj\Debug\netcoreapp2.1\First and Reserve Team.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\obj\Debug\netcoreapp2.1\First and Reserve Team.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\obj\Debug\netcoreapp2.1\First and Reserve Team.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\obj\Debug\netcoreapp2.1\First and Reserve Team.dll
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\obj\Debug\netcoreapp2.1\First and Reserve Team.pdb
+C:\Users\User\source\repos\Encapsulation - Lab\First and Reserve Team\obj\Debug\netcoreapp2.1\First and Reserve Team.csprojAssemblyReference.cache

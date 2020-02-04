@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Defining Classes - Lab\Car Constructors\bin\Debug\Car Constructors.exe.config
+C:\Users\User\source\repos\Defining Classes - Lab\Car Constructors\bin\Debug\Car Constructors.exe
+C:\Users\User\source\repos\Defining Classes - Lab\Car Constructors\bin\Debug\Car Constructors.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\Car Constructors\obj\Debug\Car Constructors.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Lab\Car Constructors\obj\Debug\Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\Car Constructors\obj\Debug\Car Constructors.exe
+C:\Users\User\source\repos\Defining Classes - Lab\Car Constructors\obj\Debug\Car Constructors.pdb

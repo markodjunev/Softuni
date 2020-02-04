@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Intro and Basic Syntax - Exercise\bin\Debug\Intro and Basic Syntax - Exercise.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Intro and Basic Syntax - Exercise\bin\Debug\Intro and Basic Syntax - Exercise.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Intro and Basic Syntax - Exercise\bin\Debug\Intro and Basic Syntax - Exercise.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Intro and Basic Syntax - Exercise\obj\Debug\Ages.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Intro and Basic Syntax - Exercise\obj\Debug\Ages.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Intro and Basic Syntax - Exercise\obj\Debug\Intro and Basic Syntax - Exercise.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Intro and Basic Syntax - Exercise\obj\Debug\Intro and Basic Syntax - Exercise.pdb

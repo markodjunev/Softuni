@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Basics\bin\Debug\List Manipulation Basics.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Basics\bin\Debug\List Manipulation Basics.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Basics\bin\Debug\List Manipulation Basics.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Basics\obj\Debug\List Manipulation Basics.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Basics\obj\Debug\List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Basics\obj\Debug\List Manipulation Basics.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Basics\obj\Debug\List Manipulation Basics.pdb

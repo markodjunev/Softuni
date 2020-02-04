@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Bomb Numbers\bin\Debug\Bomb Numbers.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Bomb Numbers\bin\Debug\Bomb Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Bomb Numbers\bin\Debug\Bomb Numbers.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Bomb Numbers\obj\Debug\Bomb Numbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Bomb Numbers\obj\Debug\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Bomb Numbers\obj\Debug\Bomb Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Bomb Numbers\obj\Debug\Bomb Numbers.pdb

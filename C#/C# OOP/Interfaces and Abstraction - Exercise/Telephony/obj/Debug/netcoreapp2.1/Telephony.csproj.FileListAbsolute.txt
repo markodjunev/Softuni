@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.deps.json
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.runtimeconfig.json
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.runtimeconfig.dev.json
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.dll
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp2.1\Telephony.pdb
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.AssemblyInfo.cs
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.dll
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp2.1\Telephony.pdb

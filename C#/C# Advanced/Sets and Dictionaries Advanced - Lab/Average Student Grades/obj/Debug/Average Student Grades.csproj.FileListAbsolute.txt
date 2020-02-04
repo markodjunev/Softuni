@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\Average Student Grades.exe.config
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\Average Student Grades.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\Average Student Grades.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\obj\Debug\Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\obj\Debug\Average Student Grades.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\obj\Debug\Average Student Grades.pdb

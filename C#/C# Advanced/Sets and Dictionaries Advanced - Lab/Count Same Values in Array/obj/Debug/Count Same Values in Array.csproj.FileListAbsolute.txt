@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\Count Same Values in Array.exe.config
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\Count Same Values in Array.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\Count Same Values in Array.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\Count Same Values in Array.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\Count Same Values in Array.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\Count Same Values in Array.pdb

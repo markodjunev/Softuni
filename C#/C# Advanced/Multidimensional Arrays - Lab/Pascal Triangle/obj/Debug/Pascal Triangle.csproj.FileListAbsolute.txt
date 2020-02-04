@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Pascal Triangle\bin\Debug\Pascal Triangle.exe.config
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Pascal Triangle\bin\Debug\Pascal Triangle.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Pascal Triangle\bin\Debug\Pascal Triangle.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\Pascal Triangle.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Pascal Triangle\obj\Debug\Pascal Triangle.pdb

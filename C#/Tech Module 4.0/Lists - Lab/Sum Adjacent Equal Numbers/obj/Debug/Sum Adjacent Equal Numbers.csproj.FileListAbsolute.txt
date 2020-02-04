@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lists - Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe.config
+C:\Users\User\source\repos\Lists - Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\User\source\repos\Lists - Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.pdb
+C:\Users\User\source\repos\Lists - Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lists - Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\User\source\repos\Lists - Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.pdb

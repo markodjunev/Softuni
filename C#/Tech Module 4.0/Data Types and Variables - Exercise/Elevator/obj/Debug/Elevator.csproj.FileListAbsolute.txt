@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Exercise\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Exercise\Elevator\bin\Debug\Elevator.exe
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Exercise\Elevator\bin\Debug\Elevator.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Exercise\Elevator\obj\Debug\Elevator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Exercise\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Exercise\Elevator\obj\Debug\Elevator.exe
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Exercise\Elevator\obj\Debug\Elevator.pdb

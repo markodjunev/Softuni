@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Lab\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Lab\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Lab\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.pdb

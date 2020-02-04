@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Back In 30 Minutes\bin\Debug\Back In 30 Minutes.exe.config
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Back In 30 Minutes\bin\Debug\Back In 30 Minutes.exe
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Back In 30 Minutes\bin\Debug\Back In 30 Minutes.pdb
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Back In 30 Minutes\obj\Debug\Back In 30 Minutes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Back In 30 Minutes\obj\Debug\Back In 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Back In 30 Minutes\obj\Debug\Back In 30 Minutes.exe
+C:\Users\User\source\repos\Basic Syntax, Conditional Statements and Loops\Back In 30 Minutes\obj\Debug\Back In 30 Minutes.pdb

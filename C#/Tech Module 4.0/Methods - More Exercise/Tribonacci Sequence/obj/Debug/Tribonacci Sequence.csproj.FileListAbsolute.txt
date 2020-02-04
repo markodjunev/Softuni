@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Methods - More Exercise\Tribonacci Sequence\bin\Debug\Tribonacci Sequence.exe.config
+C:\Users\User\source\repos\Methods - More Exercise\Tribonacci Sequence\bin\Debug\Tribonacci Sequence.exe
+C:\Users\User\source\repos\Methods - More Exercise\Tribonacci Sequence\bin\Debug\Tribonacci Sequence.pdb
+C:\Users\User\source\repos\Methods - More Exercise\Tribonacci Sequence\obj\Debug\Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - More Exercise\Tribonacci Sequence\obj\Debug\Tribonacci Sequence.exe
+C:\Users\User\source\repos\Methods - More Exercise\Tribonacci Sequence\obj\Debug\Tribonacci Sequence.pdb
+C:\Users\User\source\repos\Methods - More Exercise\Tribonacci Sequence\obj\Debug\Tribonacci Sequence.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Vowels Count\bin\Debug\Vowels Count.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Vowels Count\bin\Debug\Vowels Count.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Vowels Count\bin\Debug\Vowels Count.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Vowels Count\obj\Debug\Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Vowels Count\obj\Debug\Vowels Count.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Vowels Count\obj\Debug\Vowels Count.pdb

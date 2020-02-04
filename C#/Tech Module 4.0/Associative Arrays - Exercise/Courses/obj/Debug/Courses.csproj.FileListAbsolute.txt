@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Courses\bin\Debug\Courses.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Courses\bin\Debug\Courses.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Courses\bin\Debug\Courses.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Courses\obj\Debug\Courses.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Courses\obj\Debug\Courses.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Courses\obj\Debug\Courses.pdb

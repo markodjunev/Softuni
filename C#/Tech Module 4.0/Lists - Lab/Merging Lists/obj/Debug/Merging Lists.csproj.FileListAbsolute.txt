@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lists - Lab\Merging Lists\bin\Debug\Merging Lists.exe.config
+C:\Users\User\source\repos\Lists - Lab\Merging Lists\bin\Debug\Merging Lists.exe
+C:\Users\User\source\repos\Lists - Lab\Merging Lists\bin\Debug\Merging Lists.pdb
+C:\Users\User\source\repos\Lists - Lab\Merging Lists\obj\Debug\Merging Lists.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lists - Lab\Merging Lists\obj\Debug\Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Lab\Merging Lists\obj\Debug\Merging Lists.exe
+C:\Users\User\source\repos\Lists - Lab\Merging Lists\obj\Debug\Merging Lists.pdb

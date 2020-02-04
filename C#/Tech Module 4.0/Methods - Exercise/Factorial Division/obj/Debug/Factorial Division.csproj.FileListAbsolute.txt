@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Factorial Division\bin\Debug\Factorial Division.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Factorial Division\bin\Debug\Factorial Division.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Factorial Division\bin\Debug\Factorial Division.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Factorial Division\obj\Debug\Factorial Division.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Factorial Division\obj\Debug\Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Factorial Division\obj\Debug\Factorial Division.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Factorial Division\obj\Debug\Factorial Division.pdb

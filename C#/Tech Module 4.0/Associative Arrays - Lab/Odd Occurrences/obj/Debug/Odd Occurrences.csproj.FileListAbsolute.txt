@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Associative Arrays - Lab\Odd Occurrences\bin\Debug\Odd Occurrences.exe.config
+C:\Users\User\source\repos\Associative Arrays - Lab\Odd Occurrences\bin\Debug\Odd Occurrences.exe
+C:\Users\User\source\repos\Associative Arrays - Lab\Odd Occurrences\bin\Debug\Odd Occurrences.pdb
+C:\Users\User\source\repos\Associative Arrays - Lab\Odd Occurrences\obj\Debug\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - Lab\Odd Occurrences\obj\Debug\Odd Occurrences.exe
+C:\Users\User\source\repos\Associative Arrays - Lab\Odd Occurrences\obj\Debug\Odd Occurrences.pdb

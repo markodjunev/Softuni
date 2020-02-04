@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\String Explosion\bin\Debug\String Explosion.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\String Explosion\bin\Debug\String Explosion.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\String Explosion\bin\Debug\String Explosion.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\String Explosion\obj\Debug\String Explosion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\String Explosion\obj\Debug\String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\String Explosion\obj\Debug\String Explosion.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\String Explosion\obj\Debug\String Explosion.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - More Exercises\Refactoring\bin\Debug\Refactoring.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - More Exercises\Refactoring\bin\Debug\Refactoring.exe
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - More Exercises\Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - More Exercises\Refactoring\obj\Debug\Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - More Exercises\Refactoring\obj\Debug\Refactoring.exe
+C:\Users\User\Desktop\Tech Module 4.0\Data Types and Variables - More Exercises\Refactoring\obj\Debug\Refactoring.pdb

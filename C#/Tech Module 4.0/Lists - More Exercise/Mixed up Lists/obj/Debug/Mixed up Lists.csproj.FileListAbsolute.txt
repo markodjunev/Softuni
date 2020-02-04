@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lists - More Exercise\Mixed up Lists\bin\Debug\Mixed up Lists.exe.config
+C:\Users\User\source\repos\Lists - More Exercise\Mixed up Lists\bin\Debug\Mixed up Lists.exe
+C:\Users\User\source\repos\Lists - More Exercise\Mixed up Lists\bin\Debug\Mixed up Lists.pdb
+C:\Users\User\source\repos\Lists - More Exercise\Mixed up Lists\obj\Debug\Mixed up Lists.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lists - More Exercise\Mixed up Lists\obj\Debug\Mixed up Lists.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - More Exercise\Mixed up Lists\obj\Debug\Mixed up Lists.exe
+C:\Users\User\source\repos\Lists - More Exercise\Mixed up Lists\obj\Debug\Mixed up Lists.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Mixed up Lists\bin\Debug\Mixed up Lists.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Mixed up Lists\bin\Debug\Mixed up Lists.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Mixed up Lists\bin\Debug\Mixed up Lists.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Mixed up Lists\obj\Debug\Mixed up Lists.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Mixed up Lists\obj\Debug\Mixed up Lists.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Mixed up Lists\obj\Debug\Mixed up Lists.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - More Exercise\Mixed up Lists\obj\Debug\Mixed up Lists.pdb

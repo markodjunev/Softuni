@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\SoftUni Exam Results.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\SoftUni Exam Results.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\SoftUni Exam Results.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\SoftUni Exam Results.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\SoftUni Exam Results.pdb

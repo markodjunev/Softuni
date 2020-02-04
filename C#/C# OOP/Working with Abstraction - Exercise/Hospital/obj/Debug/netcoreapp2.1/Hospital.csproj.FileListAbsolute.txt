@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\bin\Debug\netcoreapp2.1\Hospital.deps.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\bin\Debug\netcoreapp2.1\Hospital.runtimeconfig.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\bin\Debug\netcoreapp2.1\Hospital.runtimeconfig.dev.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\bin\Debug\netcoreapp2.1\Hospital.dll
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\bin\Debug\netcoreapp2.1\Hospital.pdb
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\obj\Debug\netcoreapp2.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfo.cs
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\obj\Debug\netcoreapp2.1\Hospital.dll
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Hospital\obj\Debug\netcoreapp2.1\Hospital.pdb

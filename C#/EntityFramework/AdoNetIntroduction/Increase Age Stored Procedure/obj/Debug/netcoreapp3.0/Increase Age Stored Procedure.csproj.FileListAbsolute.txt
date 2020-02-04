@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\AdoNetIntroduction\Increase Age Stored Procedure\bin\Debug\netcoreapp3.0\Increase Age Stored Procedure.exe
+C:\Users\User\Desktop\AdoNetIntroduction\Increase Age Stored Procedure\obj\Debug\netcoreapp3.0\Increase Age Stored Procedure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Increase Age Stored Procedure\obj\Debug\netcoreapp3.0\Increase Age Stored Procedure.AssemblyInfo.cs

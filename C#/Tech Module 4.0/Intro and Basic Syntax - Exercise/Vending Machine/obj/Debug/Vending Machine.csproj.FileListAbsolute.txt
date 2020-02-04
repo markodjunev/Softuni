@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\Vending Machine.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\Vending Machine.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\Vending Machine.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\Vending Machine.pdb

@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\AdoNetIntroduction\Add Minion\bin\Debug\netcoreapp3.0\Add Minion.exe
+C:\Users\User\Desktop\AdoNetIntroduction\Add Minion\obj\Debug\netcoreapp3.0\Add Minion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Add Minion\obj\Debug\netcoreapp3.0\Add Minion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Add Minion\obj\Debug\netcoreapp3.0\Add Minion.AssemblyInfo.cs

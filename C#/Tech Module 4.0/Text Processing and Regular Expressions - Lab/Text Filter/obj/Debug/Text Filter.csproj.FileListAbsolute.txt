@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Text Filter\bin\Debug\Text Filter.exe.config
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Text Filter\bin\Debug\Text Filter.exe
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Text Filter\bin\Debug\Text Filter.pdb
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Text Filter\obj\Debug\Text Filter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Text Filter\obj\Debug\Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Text Filter\obj\Debug\Text Filter.exe
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Text Filter\obj\Debug\Text Filter.pdb

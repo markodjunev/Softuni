@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\LadyBugs1\bin\Debug\LadyBugs1.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\LadyBugs1\bin\Debug\LadyBugs1.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\LadyBugs1\bin\Debug\LadyBugs1.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\LadyBugs1\obj\Debug\LadyBugs1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\LadyBugs1\obj\Debug\LadyBugs1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\LadyBugs1\obj\Debug\LadyBugs1.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\LadyBugs1\obj\Debug\LadyBugs1.pdb

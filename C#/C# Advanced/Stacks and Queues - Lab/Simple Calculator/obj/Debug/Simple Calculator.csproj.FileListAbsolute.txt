@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\obj\Debug\Simple Calculator.pdb
+=======
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Simple Calculator\obj\Debug\Simple Calculator.pdb
+>>>>>>> 6f4f235c52a7e08aaadcb7b47dd53dd6dfd4e3cb

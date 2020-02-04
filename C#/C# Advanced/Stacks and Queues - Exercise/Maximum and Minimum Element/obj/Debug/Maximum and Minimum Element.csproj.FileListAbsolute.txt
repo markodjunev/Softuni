@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Maximum and Minimum Element\bin\Debug\Maximum and Minimum Element.exe.config
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Maximum and Minimum Element\bin\Debug\Maximum and Minimum Element.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Maximum and Minimum Element\bin\Debug\Maximum and Minimum Element.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Maximum and Minimum Element\obj\Debug\Maximum and Minimum Element.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Maximum and Minimum Element\obj\Debug\Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Maximum and Minimum Element\obj\Debug\Maximum and Minimum Element.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Maximum and Minimum Element\obj\Debug\Maximum and Minimum Element.pdb

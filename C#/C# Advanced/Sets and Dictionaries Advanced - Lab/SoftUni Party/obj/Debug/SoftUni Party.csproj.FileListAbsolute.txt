@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\SoftUni Party.exe.config
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\SoftUni Party.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\SoftUni Party.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\SoftUni Party.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\SoftUni Party.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\SoftUni Party.pdb

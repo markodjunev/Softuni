@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Defining Classes - Lab\Special Cars\bin\Debug\Special Cars.exe.config
+C:\Users\User\source\repos\Defining Classes - Lab\Special Cars\bin\Debug\Special Cars.exe
+C:\Users\User\source\repos\Defining Classes - Lab\Special Cars\bin\Debug\Special Cars.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\Special Cars\obj\Debug\Special Cars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Lab\Special Cars\obj\Debug\Special Cars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\Special Cars\obj\Debug\Special Cars.exe
+C:\Users\User\source\repos\Defining Classes - Lab\Special Cars\obj\Debug\Special Cars.pdb

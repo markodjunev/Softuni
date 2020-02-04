@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\Padawan Equipment.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\Padawan Equipment.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\Padawan Equipment.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\Padawan Equipment.exe
+C:\Users\User\Desktop\Tech Module 4.0\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\Padawan Equipment.pdb

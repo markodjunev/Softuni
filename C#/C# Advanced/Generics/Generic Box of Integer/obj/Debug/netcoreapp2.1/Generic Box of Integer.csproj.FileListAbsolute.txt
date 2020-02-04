@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Generics\Generic Box of Integer\bin\Debug\netcoreapp2.1\Generic Box of Integer.deps.json
+C:\Users\User\Desktop\Generics\Generic Box of Integer\bin\Debug\netcoreapp2.1\Generic Box of Integer.runtimeconfig.json
+C:\Users\User\Desktop\Generics\Generic Box of Integer\bin\Debug\netcoreapp2.1\Generic Box of Integer.runtimeconfig.dev.json
+C:\Users\User\Desktop\Generics\Generic Box of Integer\bin\Debug\netcoreapp2.1\Generic Box of Integer.dll
+C:\Users\User\Desktop\Generics\Generic Box of Integer\bin\Debug\netcoreapp2.1\Generic Box of Integer.pdb
+C:\Users\User\Desktop\Generics\Generic Box of Integer\obj\Debug\netcoreapp2.1\Generic Box of Integer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Generics\Generic Box of Integer\obj\Debug\netcoreapp2.1\Generic Box of Integer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Generics\Generic Box of Integer\obj\Debug\netcoreapp2.1\Generic Box of Integer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generics\Generic Box of Integer\obj\Debug\netcoreapp2.1\Generic Box of Integer.AssemblyInfo.cs
+C:\Users\User\Desktop\Generics\Generic Box of Integer\obj\Debug\netcoreapp2.1\Generic Box of Integer.dll
+C:\Users\User\Desktop\Generics\Generic Box of Integer\obj\Debug\netcoreapp2.1\Generic Box of Integer.pdb

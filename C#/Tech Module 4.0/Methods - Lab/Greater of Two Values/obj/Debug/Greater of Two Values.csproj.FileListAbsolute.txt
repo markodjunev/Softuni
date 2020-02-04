@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Greater of Two Values\bin\Debug\Greater of Two Values.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Greater of Two Values\bin\Debug\Greater of Two Values.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Greater of Two Values\bin\Debug\Greater of Two Values.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Greater of Two Values\obj\Debug\Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Greater of Two Values\obj\Debug\Greater of Two Values.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Greater of Two Values\obj\Debug\Greater of Two Values.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Greater of Two Values\obj\Debug\Greater of Two Values.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\AdoNetIntroduction\Increase Minion Age\bin\Debug\netcoreapp3.0\Increase Minion Age.exe
+C:\Users\User\Desktop\AdoNetIntroduction\Increase Minion Age\obj\Debug\netcoreapp3.0\Increase Minion Age.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Increase Minion Age\obj\Debug\netcoreapp3.0\Increase Minion Age.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Increase Minion Age\obj\Debug\netcoreapp3.0\Increase Minion Age.AssemblyInfo.cs

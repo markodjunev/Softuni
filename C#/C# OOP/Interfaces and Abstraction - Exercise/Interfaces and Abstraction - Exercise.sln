@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Define an Interface IPerson", "Define an Interface IPerson\Define an Interface IPerson.csproj", "{412E974C-5D7C-4172-BA71-DF7249E7F8B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiple Implementation", "Multiple Implementation\Multiple Implementation.csproj", "{D6F2FA6C-1CEF-4483-B9F1-4E6F27E05156}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ferrari", "Ferrari\Ferrari.csproj", "{3F071B41-B009-4B77-AE19-07A3E8110C8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telephony", "Telephony\Telephony.csproj", "{44401DD9-B9D0-4F4F-A490-CC6C25EF4E9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BorderControl", "BorderControl\BorderControl.csproj", "{88C55AB4-F952-44B8-A0B6-13ADEC0A1A99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCelebrations", "BirthdayCelebrations\BirthdayCelebrations.csproj", "{40FE76C3-5EF7-474A-80CC-36DB8E442812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryElite", "MilitaryElite\MilitaryElite.csproj", "{C2FFA0AE-3CF8-40A2-8DC4-183651D4309A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412E974C-5D7C-4172-BA71-DF7249E7F8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412E974C-5D7C-4172-BA71-DF7249E7F8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412E974C-5D7C-4172-BA71-DF7249E7F8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412E974C-5D7C-4172-BA71-DF7249E7F8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F2FA6C-1CEF-4483-B9F1-4E6F27E05156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F2FA6C-1CEF-4483-B9F1-4E6F27E05156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F2FA6C-1CEF-4483-B9F1-4E6F27E05156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F2FA6C-1CEF-4483-B9F1-4E6F27E05156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F071B41-B009-4B77-AE19-07A3E8110C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F071B41-B009-4B77-AE19-07A3E8110C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F071B41-B009-4B77-AE19-07A3E8110C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F071B41-B009-4B77-AE19-07A3E8110C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44401DD9-B9D0-4F4F-A490-CC6C25EF4E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44401DD9-B9D0-4F4F-A490-CC6C25EF4E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44401DD9-B9D0-4F4F-A490-CC6C25EF4E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44401DD9-B9D0-4F4F-A490-CC6C25EF4E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C55AB4-F952-44B8-A0B6-13ADEC0A1A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C55AB4-F952-44B8-A0B6-13ADEC0A1A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C55AB4-F952-44B8-A0B6-13ADEC0A1A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C55AB4-F952-44B8-A0B6-13ADEC0A1A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FE76C3-5EF7-474A-80CC-36DB8E442812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FE76C3-5EF7-474A-80CC-36DB8E442812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FE76C3-5EF7-474A-80CC-36DB8E442812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FE76C3-5EF7-474A-80CC-36DB8E442812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FFA0AE-3CF8-40A2-8DC4-183651D4309A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FFA0AE-3CF8-40A2-8DC4-183651D4309A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FFA0AE-3CF8-40A2-8DC4-183651D4309A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FFA0AE-3CF8-40A2-8DC4-183651D4309A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA687E6-AC25-4673-8644-C827C9BF65AB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.deps.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.runtimeconfig.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.runtimeconfig.dev.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.dll
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\bin\Debug\netcoreapp2.1\Jedi Galaxy.pdb
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.AssemblyInfo.cs
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.dll
+C:\Users\User\Desktop\Working with Abstraction - Exercise\Jedi Galaxy\obj\Debug\netcoreapp2.1\Jedi Galaxy.pdb

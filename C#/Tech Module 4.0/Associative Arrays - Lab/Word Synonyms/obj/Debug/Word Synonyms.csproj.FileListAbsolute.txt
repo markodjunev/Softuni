@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\Word Synonyms.exe.config
+C:\Users\User\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\Word Synonyms.exe
+C:\Users\User\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\Word Synonyms.pdb
+C:\Users\User\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\Word Synonyms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\Word Synonyms.exe
+C:\Users\User\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\Word Synonyms.pdb

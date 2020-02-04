@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Stacks and Queues - Lab\Stack Sum\bin\Debug\Stack Sum.exe.config
+C:\Users\User\Desktop\Stacks and Queues - Lab\Stack Sum\bin\Debug\Stack Sum.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Stack Sum\bin\Debug\Stack Sum.pdb
+C:\Users\User\Desktop\Stacks and Queues - Lab\Stack Sum\obj\Debug\Stack Sum.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Stack Sum\obj\Debug\Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Stack Sum\obj\Debug\Stack Sum.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Stack Sum\obj\Debug\Stack Sum.pdb

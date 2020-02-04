@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\AdoNetIntroduction\ChangeTownNamesCasing\bin\Debug\netcoreapp3.0\ChangeTownNamesCasing.exe
+C:\Users\User\Desktop\AdoNetIntroduction\ChangeTownNamesCasing\obj\Debug\netcoreapp3.0\ChangeTownNamesCasing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AdoNetIntroduction\ChangeTownNamesCasing\obj\Debug\netcoreapp3.0\ChangeTownNamesCasing.AssemblyInfo.cs

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\List Operations\bin\Debug\List Operations.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\List Operations\bin\Debug\List Operations.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\List Operations\bin\Debug\List Operations.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\List Operations\obj\Debug\List Operations.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\List Operations\obj\Debug\List Operations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\List Operations\obj\Debug\List Operations.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\List Operations\obj\Debug\List Operations.pdb

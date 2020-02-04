@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Equal Sum\bin\Debug\Equal Sum.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Equal Sum\bin\Debug\Equal Sum.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Equal Sum\bin\Debug\Equal Sum.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Equal Sum\obj\Debug\Equal Sum.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Equal Sum\obj\Debug\Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Equal Sum\obj\Debug\Equal Sum.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Exercise\Equal Sum\obj\Debug\Equal Sum.pdb

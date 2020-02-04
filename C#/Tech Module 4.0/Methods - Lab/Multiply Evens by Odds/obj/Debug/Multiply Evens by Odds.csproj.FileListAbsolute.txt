@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.pdb

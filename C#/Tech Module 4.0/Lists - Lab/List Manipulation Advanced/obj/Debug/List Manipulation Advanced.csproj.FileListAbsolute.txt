@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Advanced\bin\Debug\List Manipulation Advanced.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Advanced\bin\Debug\List Manipulation Advanced.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Advanced\bin\Debug\List Manipulation Advanced.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Advanced\obj\Debug\List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Advanced\obj\Debug\List Manipulation Advanced.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Lab\List Manipulation Advanced\obj\Debug\List Manipulation Advanced.pdb

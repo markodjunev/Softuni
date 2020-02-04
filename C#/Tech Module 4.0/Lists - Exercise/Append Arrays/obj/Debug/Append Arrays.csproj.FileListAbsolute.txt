@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Append Arrays\bin\Debug\Append Arrays.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Append Arrays\bin\Debug\Append Arrays.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Append Arrays\bin\Debug\Append Arrays.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Append Arrays\obj\Debug\Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Append Arrays\obj\Debug\Append Arrays.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Append Arrays\obj\Debug\Append Arrays.pdb

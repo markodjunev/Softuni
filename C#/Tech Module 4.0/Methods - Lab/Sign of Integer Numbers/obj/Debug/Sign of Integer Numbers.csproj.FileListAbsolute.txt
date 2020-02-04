@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Sign of Integer Numbers\bin\Debug\Sign of Integer Numbers.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Sign of Integer Numbers\bin\Debug\Sign of Integer Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Sign of Integer Numbers\bin\Debug\Sign of Integer Numbers.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Sign of Integer Numbers\obj\Debug\Sign of Integer Numbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Sign of Integer Numbers\obj\Debug\Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Sign of Integer Numbers\obj\Debug\Sign of Integer Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Sign of Integer Numbers\obj\Debug\Sign of Integer Numbers.pdb

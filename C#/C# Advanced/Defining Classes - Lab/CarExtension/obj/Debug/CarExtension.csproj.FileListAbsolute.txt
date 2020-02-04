@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Defining Classes - Lab\CarExtension\bin\Debug\CarExtension.exe.config
+C:\Users\User\source\repos\Defining Classes - Lab\CarExtension\bin\Debug\CarExtension.exe
+C:\Users\User\source\repos\Defining Classes - Lab\CarExtension\bin\Debug\CarExtension.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\CarExtension\obj\Debug\CarExtension.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Lab\CarExtension\obj\Debug\CarExtension.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\CarExtension\obj\Debug\CarExtension.exe
+C:\Users\User\source\repos\Defining Classes - Lab\CarExtension\obj\Debug\CarExtension.pdb

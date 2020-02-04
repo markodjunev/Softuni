@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\bin\Debug\netcoreapp2.1\Student System.deps.json
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\bin\Debug\netcoreapp2.1\Student System.runtimeconfig.json
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\bin\Debug\netcoreapp2.1\Student System.runtimeconfig.dev.json
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\bin\Debug\netcoreapp2.1\Student System.dll
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\bin\Debug\netcoreapp2.1\Student System.pdb
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\obj\Debug\netcoreapp2.1\Student System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\obj\Debug\netcoreapp2.1\Student System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\obj\Debug\netcoreapp2.1\Student System.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\obj\Debug\netcoreapp2.1\Student System.AssemblyInfo.cs
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\obj\Debug\netcoreapp2.1\Student System.dll
+C:\Users\User\Desktop\Working with Abstraction - Lab\Student System\obj\Debug\netcoreapp2.1\Student System.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Auto Repair and Service\bin\Debug\Auto Repair and Service.exe.config
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Auto Repair and Service\bin\Debug\Auto Repair and Service.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Auto Repair and Service\bin\Debug\Auto Repair and Service.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Auto Repair and Service\obj\Debug\Auto Repair and Service.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Auto Repair and Service\obj\Debug\Auto Repair and Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Auto Repair and Service\obj\Debug\Auto Repair and Service.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Auto Repair and Service\obj\Debug\Auto Repair and Service.pdb

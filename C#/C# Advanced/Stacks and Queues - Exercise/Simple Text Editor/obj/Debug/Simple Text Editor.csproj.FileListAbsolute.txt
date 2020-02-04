@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\Simple Text Editor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\Simple Text Editor.pdb

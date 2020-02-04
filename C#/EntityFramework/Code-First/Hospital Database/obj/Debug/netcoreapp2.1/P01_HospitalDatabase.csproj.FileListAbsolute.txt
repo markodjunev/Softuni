@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.deps.json
+C:\Users\User\source\repos\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.runtimeconfig.json
+C:\Users\User\source\repos\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\Users\User\source\repos\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.dll
+C:\Users\User\source\repos\Code-First\Hospital Database\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Code-First\Hospital Database\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Code-First\Hospital Database\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.deps.json
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.runtimeconfig.json
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.dll
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.pdb
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.dll
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.pdb
+C:\Users\User\Desktop\EntityFrameworkIntroduction\Code-First\Hospital Database\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.csprojAssemblyReference.cache

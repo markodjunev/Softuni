@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\NxN Matrix\bin\Debug\NxN Matrix.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\NxN Matrix\bin\Debug\NxN Matrix.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\NxN Matrix\bin\Debug\NxN Matrix.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\NxN Matrix\obj\Debug\NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\NxN Matrix\obj\Debug\NxN Matrix.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\NxN Matrix\obj\Debug\NxN Matrix.pdb

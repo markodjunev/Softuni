@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\bin\Debug\netcoreapp2.1\Generic Swap Method Integers.deps.json
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\bin\Debug\netcoreapp2.1\Generic Swap Method Integers.runtimeconfig.json
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\bin\Debug\netcoreapp2.1\Generic Swap Method Integers.runtimeconfig.dev.json
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\bin\Debug\netcoreapp2.1\Generic Swap Method Integers.dll
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\bin\Debug\netcoreapp2.1\Generic Swap Method Integers.pdb
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\obj\Debug\netcoreapp2.1\Generic Swap Method Integers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\obj\Debug\netcoreapp2.1\Generic Swap Method Integers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\obj\Debug\netcoreapp2.1\Generic Swap Method Integers.AssemblyInfo.cs
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\obj\Debug\netcoreapp2.1\Generic Swap Method Integers.dll
+C:\Users\User\Desktop\Generics\Generic Swap Method Integers\obj\Debug\netcoreapp2.1\Generic Swap Method Integers.pdb

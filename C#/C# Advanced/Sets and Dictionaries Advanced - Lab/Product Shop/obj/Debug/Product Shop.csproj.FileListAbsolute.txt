@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\Product Shop.exe.config
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\Product Shop.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\Product Shop.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\Product Shop.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\Product Shop.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\Product Shop.csprojAssemblyReference.cache

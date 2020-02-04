@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Reverse String\obj\Debug\Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Reverse String\bin\Debug\Reverse String.exe.config
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Reverse String\bin\Debug\Reverse String.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Reverse String\bin\Debug\Reverse String.pdb
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Reverse String\obj\Debug\Reverse String.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\Reverse String\obj\Debug\Reverse String.pdb

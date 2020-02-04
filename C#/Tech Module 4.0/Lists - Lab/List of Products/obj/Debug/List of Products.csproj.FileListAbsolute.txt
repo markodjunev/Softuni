@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lists - Lab\List of Products\bin\Debug\List of Products.exe.config
+C:\Users\User\source\repos\Lists - Lab\List of Products\bin\Debug\List of Products.exe
+C:\Users\User\source\repos\Lists - Lab\List of Products\bin\Debug\List of Products.pdb
+C:\Users\User\source\repos\Lists - Lab\List of Products\obj\Debug\List of Products.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Lab\List of Products\obj\Debug\List of Products.exe
+C:\Users\User\source\repos\Lists - Lab\List of Products\obj\Debug\List of Products.pdb

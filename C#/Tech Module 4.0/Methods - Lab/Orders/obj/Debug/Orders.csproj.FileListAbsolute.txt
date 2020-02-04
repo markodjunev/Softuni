@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Orders\bin\Debug\Orders.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Orders\bin\Debug\Orders.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Orders\bin\Debug\Orders.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Orders\obj\Debug\Orders.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Orders\obj\Debug\Orders.pdb

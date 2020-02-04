@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\AdoNetIntroduction\Minion Names\bin\Debug\netcoreapp3.0\Minion Names.exe
+C:\Users\User\Desktop\AdoNetIntroduction\Minion Names\obj\Debug\netcoreapp3.0\Minion Names.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Minion Names\obj\Debug\netcoreapp3.0\Minion Names.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AdoNetIntroduction\Minion Names\obj\Debug\netcoreapp3.0\Minion Names.AssemblyInfo.cs

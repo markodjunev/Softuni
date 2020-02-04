@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\Snake Moves.exe.config
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\Snake Moves.exe
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\Snake Moves.pdb
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\Snake Moves.exe
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\Snake Moves.pdb
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\Snake Moves.csprojAssemblyReference.cache

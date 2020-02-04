@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\Sum Matrix Columns.exe.config
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\Sum Matrix Columns.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\Sum Matrix Columns.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\Sum Matrix Columns.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\Sum Matrix Columns.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Multiply Big Number\bin\Debug\Multiply Big Number.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Multiply Big Number\bin\Debug\Multiply Big Number.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Multiply Big Number\bin\Debug\Multiply Big Number.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Multiply Big Number\obj\Debug\Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Multiply Big Number\obj\Debug\Multiply Big Number.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Multiply Big Number\obj\Debug\Multiply Big Number.pdb

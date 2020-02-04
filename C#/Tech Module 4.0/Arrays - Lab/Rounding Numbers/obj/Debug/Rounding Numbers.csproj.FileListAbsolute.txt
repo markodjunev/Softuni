@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Rounding Numbers\bin\Debug\Rounding Numbers.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Rounding Numbers\bin\Debug\Rounding Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Rounding Numbers\bin\Debug\Rounding Numbers.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Rounding Numbers\obj\Debug\Rounding Numbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Rounding Numbers\obj\Debug\Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Rounding Numbers\obj\Debug\Rounding Numbers.exe
+C:\Users\User\Desktop\Tech Module 4.0\Arrays - Lab\Rounding Numbers\obj\Debug\Rounding Numbers.pdb

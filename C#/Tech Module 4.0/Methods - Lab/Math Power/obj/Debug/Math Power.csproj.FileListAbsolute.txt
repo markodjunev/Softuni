@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Math Power\bin\Debug\Math Power.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Math Power\bin\Debug\Math Power.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Math Power\bin\Debug\Math Power.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Math Power\obj\Debug\Math Power.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Math Power\obj\Debug\Math Power.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Math Power\obj\Debug\Math Power.pdb

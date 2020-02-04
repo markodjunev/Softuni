@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\bin\Debug\netcoreapp2.1\Generic Count Method Strings.deps.json
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\bin\Debug\netcoreapp2.1\Generic Count Method Strings.runtimeconfig.json
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\bin\Debug\netcoreapp2.1\Generic Count Method Strings.runtimeconfig.dev.json
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\bin\Debug\netcoreapp2.1\Generic Count Method Strings.dll
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\bin\Debug\netcoreapp2.1\Generic Count Method Strings.pdb
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\obj\Debug\netcoreapp2.1\Generic Count Method Strings.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\obj\Debug\netcoreapp2.1\Generic Count Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\obj\Debug\netcoreapp2.1\Generic Count Method Strings.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\obj\Debug\netcoreapp2.1\Generic Count Method Strings.AssemblyInfo.cs
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\obj\Debug\netcoreapp2.1\Generic Count Method Strings.dll
+C:\Users\User\Desktop\Generics\Generic Count Method Strings\obj\Debug\netcoreapp2.1\Generic Count Method Strings.pdb

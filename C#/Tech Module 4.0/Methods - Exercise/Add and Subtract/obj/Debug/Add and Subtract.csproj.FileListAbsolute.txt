@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Add and Subtract\bin\Debug\Add and Subtract.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Add and Subtract\bin\Debug\Add and Subtract.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Add and Subtract\bin\Debug\Add and Subtract.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Add and Subtract\obj\Debug\Add and Subtract.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Add and Subtract\obj\Debug\Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Add and Subtract\obj\Debug\Add and Subtract.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Add and Subtract\obj\Debug\Add and Subtract.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\Even Times.exe.config
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\Even Times.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\Even Times.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\Even Times.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\Even Times.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\Even Times.pdb

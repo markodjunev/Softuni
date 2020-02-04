@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Extract File\bin\Debug\Extract File.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Extract File\bin\Debug\Extract File.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Extract File\bin\Debug\Extract File.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Extract File\obj\Debug\Extract File.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Extract File\obj\Debug\Extract File.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Extract File\obj\Debug\Extract File.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Extract File\obj\Debug\Extract File.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\English Name of the Last Digit\bin\Debug\English Name of the Last Digit.exe.config
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\English Name of the Last Digit\bin\Debug\English Name of the Last Digit.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\English Name of the Last Digit\bin\Debug\English Name of the Last Digit.pdb
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\English Name of the Last Digit\obj\Debug\English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\English Name of the Last Digit\obj\Debug\English Name of the Last Digit.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - More Exercise\English Name of the Last Digit\obj\Debug\English Name of the Last Digit.pdb

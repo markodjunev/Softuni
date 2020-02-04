@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Replace Repeating Chars\bin\Debug\Replace Repeating Chars.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Replace Repeating Chars\bin\Debug\Replace Repeating Chars.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Replace Repeating Chars\bin\Debug\Replace Repeating Chars.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Replace Repeating Chars\obj\Debug\Replace Repeating Chars.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Replace Repeating Chars\obj\Debug\Replace Repeating Chars.exe
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Replace Repeating Chars\obj\Debug\Replace Repeating Chars.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Text Processing and Regular Expressions - Exercise\Replace Repeating Chars\obj\Debug\Replace Repeating Chars.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\bin\Debug\netcoreapp2.1\Multiple Implementation.deps.json
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\bin\Debug\netcoreapp2.1\Multiple Implementation.runtimeconfig.json
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\bin\Debug\netcoreapp2.1\Multiple Implementation.runtimeconfig.dev.json
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\bin\Debug\netcoreapp2.1\Multiple Implementation.dll
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\bin\Debug\netcoreapp2.1\Multiple Implementation.pdb
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\obj\Debug\netcoreapp2.1\Multiple Implementation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\obj\Debug\netcoreapp2.1\Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\obj\Debug\netcoreapp2.1\Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\obj\Debug\netcoreapp2.1\Multiple Implementation.AssemblyInfo.cs
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\obj\Debug\netcoreapp2.1\Multiple Implementation.dll
+C:\Users\User\Desktop\Interfaces and Abstraction - Exercise\Multiple Implementation\obj\Debug\netcoreapp2.1\Multiple Implementation.pdb

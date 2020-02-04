@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Match Full Name\bin\Debug\Match Full Name.exe.config
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Match Full Name\bin\Debug\Match Full Name.exe
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Match Full Name\bin\Debug\Match Full Name.pdb
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Match Full Name\obj\Debug\Match Full Name.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Match Full Name\obj\Debug\Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Match Full Name\obj\Debug\Match Full Name.exe
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Match Full Name\obj\Debug\Match Full Name.pdb

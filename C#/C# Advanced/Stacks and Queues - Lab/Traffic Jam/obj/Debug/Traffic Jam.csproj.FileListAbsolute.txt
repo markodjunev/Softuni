@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Lab\Traffic Jam\bin\Debug\Traffic Jam.exe.config
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Lab\Traffic Jam\bin\Debug\Traffic Jam.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Lab\Traffic Jam\bin\Debug\Traffic Jam.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Lab\Traffic Jam\obj\Debug\Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Lab\Traffic Jam\obj\Debug\Traffic Jam.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Lab\Traffic Jam\obj\Debug\Traffic Jam.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues - Lab\Traffic Jam\obj\Debug\Traffic Jam.csprojAssemblyReference.cache

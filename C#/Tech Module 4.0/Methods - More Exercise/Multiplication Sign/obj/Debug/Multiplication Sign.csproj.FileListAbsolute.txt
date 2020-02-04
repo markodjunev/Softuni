@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Methods - More Exercise\Multiplication Sign\bin\Debug\Multiplication Sign.exe.config
+C:\Users\User\source\repos\Methods - More Exercise\Multiplication Sign\bin\Debug\Multiplication Sign.exe
+C:\Users\User\source\repos\Methods - More Exercise\Multiplication Sign\bin\Debug\Multiplication Sign.pdb
+C:\Users\User\source\repos\Methods - More Exercise\Multiplication Sign\obj\Debug\Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - More Exercise\Multiplication Sign\obj\Debug\Multiplication Sign.exe
+C:\Users\User\source\repos\Methods - More Exercise\Multiplication Sign\obj\Debug\Multiplication Sign.pdb

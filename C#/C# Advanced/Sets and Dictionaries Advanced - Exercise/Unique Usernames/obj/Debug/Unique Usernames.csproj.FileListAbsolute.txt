@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\Unique Usernames.exe.config
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\Unique Usernames.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\Unique Usernames.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\Unique Usernames.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\Unique Usernames.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\Unique Usernames.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Legendary Farming\bin\Debug\Legendary Farming.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Legendary Farming\bin\Debug\Legendary Farming.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Legendary Farming\bin\Debug\Legendary Farming.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Legendary Farming\obj\Debug\Legendary Farming.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Legendary Farming\obj\Debug\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Legendary Farming\obj\Debug\Legendary Farming.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Legendary Farming\obj\Debug\Legendary Farming.pdb

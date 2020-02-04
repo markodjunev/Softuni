@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Cards Game\bin\Debug\Cards Game.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Cards Game\bin\Debug\Cards Game.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Cards Game\bin\Debug\Cards Game.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Cards Game\obj\Debug\Cards Game.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Cards Game\obj\Debug\Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Cards Game\obj\Debug\Cards Game.exe
+C:\Users\User\Desktop\Tech Module 4.0\Lists - Exercise\Cards Game\obj\Debug\Cards Game.pdb

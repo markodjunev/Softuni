@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Characters in Range\bin\Debug\Characters in Range.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Characters in Range\bin\Debug\Characters in Range.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Characters in Range\bin\Debug\Characters in Range.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Characters in Range\obj\Debug\Characters in Range.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Characters in Range\obj\Debug\Characters in Range.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Characters in Range\obj\Debug\Characters in Range.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Characters in Range\obj\Debug\Characters in Range.pdb

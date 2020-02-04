@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Printing Triangle\bin\Debug\Printing Triangle.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Printing Triangle\bin\Debug\Printing Triangle.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Printing Triangle\bin\Debug\Printing Triangle.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Printing Triangle\obj\Debug\Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Printing Triangle\obj\Debug\Printing Triangle.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Printing Triangle\obj\Debug\Printing Triangle.pdb

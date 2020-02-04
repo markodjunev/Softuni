@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Student Academy\bin\Debug\Student Academy.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Student Academy\bin\Debug\Student Academy.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Student Academy\bin\Debug\Student Academy.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Student Academy\obj\Debug\Student Academy.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Student Academy\obj\Debug\Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Student Academy\obj\Debug\Student Academy.exe
+C:\Users\User\Desktop\Tech Module 4.0\Associative Arrays - Exercise\Student Academy\obj\Debug\Student Academy.pdb

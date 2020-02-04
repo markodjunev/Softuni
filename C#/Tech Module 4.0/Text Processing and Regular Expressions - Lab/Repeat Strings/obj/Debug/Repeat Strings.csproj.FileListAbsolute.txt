@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Repeat Strings\bin\Debug\Repeat Strings.exe.config
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Repeat Strings\bin\Debug\Repeat Strings.exe
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Repeat Strings\bin\Debug\Repeat Strings.pdb
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Repeat Strings\obj\Debug\Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Repeat Strings\obj\Debug\Repeat Strings.exe
+C:\Users\User\source\repos\Text Processing and Regular Expressions - Lab\Repeat Strings\obj\Debug\Repeat Strings.pdb

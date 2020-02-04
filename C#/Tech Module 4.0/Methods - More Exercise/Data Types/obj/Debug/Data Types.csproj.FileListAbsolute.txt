@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Methods - More Exercise\Data Types\bin\Debug\Data Types.exe.config
+C:\Users\User\source\repos\Methods - More Exercise\Data Types\bin\Debug\Data Types.exe
+C:\Users\User\source\repos\Methods - More Exercise\Data Types\bin\Debug\Data Types.pdb
+C:\Users\User\source\repos\Methods - More Exercise\Data Types\obj\Debug\Data Types.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Methods - More Exercise\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - More Exercise\Data Types\obj\Debug\Data Types.exe
+C:\Users\User\source\repos\Methods - More Exercise\Data Types\obj\Debug\Data Types.pdb

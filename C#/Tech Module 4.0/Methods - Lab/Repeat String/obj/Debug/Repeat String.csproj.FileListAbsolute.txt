@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Repeat String\bin\Debug\Repeat String.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Repeat String\bin\Debug\Repeat String.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Repeat String\bin\Debug\Repeat String.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Repeat String\obj\Debug\Repeat String.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Repeat String\obj\Debug\Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Repeat String\obj\Debug\Repeat String.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Lab\Repeat String\obj\Debug\Repeat String.pdb

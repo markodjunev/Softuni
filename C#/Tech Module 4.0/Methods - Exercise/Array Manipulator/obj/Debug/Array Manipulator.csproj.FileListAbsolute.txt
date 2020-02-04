@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Array Manipulator\bin\Debug\Array Manipulator.exe.config
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Array Manipulator\bin\Debug\Array Manipulator.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Array Manipulator\bin\Debug\Array Manipulator.pdb
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Array Manipulator\obj\Debug\Array Manipulator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Array Manipulator\obj\Debug\Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Array Manipulator\obj\Debug\Array Manipulator.exe
+C:\Users\User\Desktop\Tech Module 4.0\Methods - Exercise\Array Manipulator\obj\Debug\Array Manipulator.pdb

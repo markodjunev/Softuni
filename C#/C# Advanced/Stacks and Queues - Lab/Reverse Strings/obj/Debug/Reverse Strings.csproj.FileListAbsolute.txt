@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.exe.config
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.pdb
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.pdb
+=======
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.exe.config
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.pdb
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.exe
+C:\Users\User\Desktop\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.pdb
+>>>>>>> 6f4f235c52a7e08aaadcb7b47dd53dd6dfd4e3cb

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\Matrix Shuffling.exe.config
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\Matrix Shuffling.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\Matrix Shuffling.pdb
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\Matrix Shuffling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\Matrix Shuffling.exe
+C:\Users\User\source\repos\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\Matrix Shuffling.pdb
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\Matrix Shuffling.exe.config
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\Matrix Shuffling.exe
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\Matrix Shuffling.pdb
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\Matrix Shuffling.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\Matrix Shuffling.exe
+C:\Users\User\Desktop\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\Matrix Shuffling.pdb

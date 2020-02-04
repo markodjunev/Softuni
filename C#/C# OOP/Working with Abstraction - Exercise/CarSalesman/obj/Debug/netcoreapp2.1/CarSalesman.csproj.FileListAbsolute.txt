@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\User\Desktop\Working with Abstraction - Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb
